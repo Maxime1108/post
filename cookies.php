@@ -1,3 +1,0 @@
-<?php
-
-// Les cookies
